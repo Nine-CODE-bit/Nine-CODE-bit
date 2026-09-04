@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🎓Education Experience
+- University of Chinese Academy of Sciences 2023 UG @ Beijing, China
+- Hong Kong University of Sciences and Technology 2026 Spring Exchange @ Hong Kong, China
 
 <!--
 **Nine-CODE-bit/Nine-CODE-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
